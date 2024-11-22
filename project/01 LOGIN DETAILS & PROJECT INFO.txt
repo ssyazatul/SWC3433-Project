@@ -1,0 +1,10 @@
+
+Admin Login Details
+Username: admin
+Password: Password@123
+
+Employee Login Details
+Username:mark.lee@example.com
+Password:Password@123
+
+
